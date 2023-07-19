@@ -43,11 +43,10 @@
 ## Контакты 
   
 [<img src="./svg/telegram.svg">](https://t.me/dmitry_talasov)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:talasov210@yandex.ru)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:talasov2017@yandex.ru)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/#/)
 
 <br/>  
-
 
 
 ---
