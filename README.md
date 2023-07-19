@@ -14,9 +14,10 @@
 
 
 ## Мой стек   
-<table><tr><td valign="top" width="33%">
 
-</td><td valign="top" width="33%">
+
+
+
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
@@ -33,11 +34,11 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-</td></tr></table>  
+
+ 
 
 <br/>  
 
