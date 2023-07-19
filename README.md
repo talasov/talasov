@@ -16,8 +16,6 @@
 ## Мой стек   
 <table><tr><td valign="top" width="33%">
 
-
-###### Python, Django, Django REST Framework, Postman, Gunicorn, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Unittest, Linux, nginx, CI/CD, etc
 </td><td valign="top" width="33%">
 
 <div align="center">  
