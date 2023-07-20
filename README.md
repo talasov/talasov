@@ -1,4 +1,4 @@
-### <div align="center">Дмитрий Таласов👨‍💻 Backend Python-разработчик  🚀</div>  
+### Дмитрий Таласов👨‍💻 Backend Python-разработчик  🚀</div>  
   
 
 - 🔭Мои проекты -  [Портфолио](https://github.com/talasov/portfolio)  
